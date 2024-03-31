@@ -4,4 +4,5 @@
 
 The challenge is to create a QR code component that redirects user to [Frontend Mentor](https://www.frontendmentor.io) while scanning the qr code.
 
+Deployed the project in [Vercal](https://qr-code-frontend-mentor-sandy.vercel.app/)
 
